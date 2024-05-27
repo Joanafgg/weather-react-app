@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.footer {
+  text-align: center;
+  font-size: 15px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer a {
+  text-decoration: none;
+  transition: all 300ms ease-in-out;
+  color:lightcoral;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
