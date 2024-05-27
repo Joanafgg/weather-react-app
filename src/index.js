@@ -20,12 +20,17 @@ root.render(
         <a
           href="https://github.com/Joanafgg/weather-react-app"
           target={"_blank"}
+          rel="noreferrer"
         >
           {" "}
           Open-source code{" "}
         </a>{" "}
         by{" "}
-        <a href="https://github.com/Joanafgg" target={"_blank"}>
+        <a
+          href="https://github.com/Joanafgg"
+          target={"_blank"}
+          rel="noreferrer"
+        >
           Joana Garcia{" "}
         </a>{" "}
       </p>
