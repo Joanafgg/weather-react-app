@@ -17,7 +17,14 @@ root.render(
       <Weather />
       <p className="footer">
         {" "}
-        <a href=""> Open-source code </a> by{" "}
+        <a
+          href="https://github.com/Joanafgg/weather-react-app"
+          target={"_blank"}
+        >
+          {" "}
+          Open-source code{" "}
+        </a>{" "}
+        by{" "}
         <a href="https://github.com/Joanafgg" target={"_blank"}>
           Joana Garcia{" "}
         </a>{" "}
